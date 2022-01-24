@@ -10,4 +10,4 @@ sudo make install
 ```
 
 ## Configuration
-Configure dwm by making changes in "config.h", run "sudo make install" afterwards.
+Configure dmenu by making changes in "config.h", run "sudo make install" afterwards.
