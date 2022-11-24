@@ -1,6 +1,6 @@
 # My dmenu build
 Patch used:
-- nothing
+- [password](https://tools.suckless.org/dmenu/patches/password/)
 
 ## Installation
 ```
